@@ -12,6 +12,11 @@ I am a Data Analyst with a design foundation who loves building data models and 
 - Database: PostgreSQL, MySQL
 - Dashboards: Tableau, Looker Studio
 
+## Websites
+
+- [LinkedIn](https://www.linkedin.com/in/amana-e-b359341b7/)
+- [Medium](https://medium.com/@easg9953)
+
 
 <!--
 **Nickartze/Nickartze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
