@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Brown and Gray Simple Personal LinkedIn Banner](https://raw.githubusercontent.com/Nickartze/nickarts.github.io/refs/heads/main/Images/Profile%20Banner.png)
+
 I am a Data Analyst with a design foundation who loves building data models and interactive dashboards to uncover valuable business insights and marketing analysis.
 
 - Data Cleaning and Querying using MYSQL and PostgreSQL.
@@ -16,6 +18,10 @@ I am a Data Analyst with a design foundation who loves building data models and 
 
 - [LinkedIn](https://www.linkedin.com/in/amana-e-b359341b7/)
 - [Medium](https://medium.com/@easg9953)
+
+## Referenced
+
+- [katiehuangx](https://github.com/katiehuangx/katiehuangx)
 
 
 <!--
