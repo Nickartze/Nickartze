@@ -14,6 +14,11 @@ I am a Data Analyst with a design foundation who loves building data models and 
 - Database: PostgreSQL, MySQL
 - Dashboards: Tableau, Looker Studio
 
+## Projects
+
+- [Dashboard Projects](https://github.com/Nickartze/Dashboard-Projects)
+- [Case Studies](https://github.com/Nickartze/Case-Studies)
+
 ## Websites
 
 - [LinkedIn](https://www.linkedin.com/in/amana-e-b359341b7/)
