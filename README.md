@@ -2,22 +2,26 @@
 
 ![Brown and Gray Simple Personal LinkedIn Banner](https://raw.githubusercontent.com/Nickartze/nickarts.github.io/refs/heads/main/Images/Profile%20Banner.png)
 
-I am a Data Analyst with a design foundation who loves building data models and interactive dashboards to uncover valuable business insights and marketing analysis.
+I'm a Data Analyst with a design background who builds data models and interactive dashboards. I manage a data pipeline that uncovers valuable business insights and drives marketing analysis.
 
-- Data Cleaning and Querying using MYSQL and PostgreSQL.
-- Analysis using SQL and Excel.
-- Interactive dashboards with Tableau and Looker Studio.
-- Generating reports using Tableau and Google Slides.
+### What I do
 
-## Tools I use
+- Clean, transform, and query data using SQL
+- Build analytical data models in Google BigQuery
+- Design interactive dashboards in Tableau and Looker Studio
+- Present insights through clear, decision-focused reports
 
-- Database: PostgreSQL, MySQL
-- Dashboards: Tableau, Looker Studio
+## Tools & Technologies
+
+- **Languages:** SQL
+- **Data Pipelines:** Airbyte
+- **Databases:** Google BigQuery, PostgreSQL, MySQL
+- **Visualization & BI:** Tableau, Looker Studio
 
 ## Projects
 
-- [Dashboard Projects](https://github.com/Nickartze/Dashboard-Projects)
-- [Case Studies](https://github.com/Nickartze/Case-Studies)
+- [Dashboard Projects](https://github.com/Nickartze/Dashboard-Projects)  — Interactive dashboards and analytics use cases
+- [Case Studies](https://github.com/Nickartze/Case-Studies)  — End-to-end analytical problem solving
 
 ## Websites
 
