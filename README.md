@@ -1,4 +1,4 @@
-## Hi there 👋
+## About me
 
 ![Brown and Gray Simple Personal LinkedIn Banner](https://raw.githubusercontent.com/Nickartze/nickarts.github.io/refs/heads/main/Images/Profile%20Banner.png)
 
