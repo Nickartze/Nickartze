@@ -4,7 +4,7 @@
 
 I'm a Data Analyst with a design background who builds data models and interactive dashboards. I manage a data pipeline that uncovers valuable business insights and drives marketing analysis.
 
-### What I do
+## What I do
 
 - Clean, transform, and query data using SQL
 - Build analytical data models in Google BigQuery
