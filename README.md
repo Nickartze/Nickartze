@@ -4,20 +4,6 @@
 
 I'm a Data Analyst with a design background who builds data models and interactive dashboards. I manage a data pipeline that uncovers valuable business insights and drives marketing analysis.
 
-## What I do
-
-- Clean, transform, and query data using SQL
-- Build analytical data models in Google BigQuery
-- Design interactive dashboards in Tableau and Looker Studio
-- Present insights through clear, decision-focused reports
-
-## Tools & Technologies
-
-- **Languages:** SQL
-- **Data Pipelines:** Airbyte
-- **Databases:** Google BigQuery, PostgreSQL, MySQL
-- **Visualization & BI:** Tableau, Looker Studio
-
 ## Projects
 
 - [SQL Practice](https://github.com/Nickartze/SQL-Projects)  — SQL practice codes
@@ -28,6 +14,13 @@ I'm a Data Analyst with a design background who builds data models and interacti
 
 - [LinkedIn](https://www.linkedin.com/in/amana-e-b359341b7/)
 - [Medium](https://medium.com/@easg9953)
+
+## Tools & Technologies
+
+- **Languages:** SQL
+- **Data Pipelines:** Airbyte
+- **Databases:** Google BigQuery, PostgreSQL, MySQL
+- **Visualization & BI:** Tableau, Looker Studio
 
 ## Referenced
 
