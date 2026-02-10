@@ -6,7 +6,7 @@ I'm a Data Analyst with a design background who builds data models and interacti
 
 ## Projects
 
-- [SQL Practice](https://github.com/Nickartze/SQL-Projects)  — SQL practice codes
+- [SQL](https://github.com/Nickartze/SQL-Projects)  — SQL practice codes
 - [Dashboard Projects](https://github.com/Nickartze/Dashboard-Projects)  — Interactive dashboards and analytics use-cases
 - [Case Studies](https://github.com/Nickartze/Case-Studies)  — End-to-end analytical problem solving
 
