@@ -1,30 +1,31 @@
-## About me
+## Hi there! I'm Amana
 
-![Brown and Gray Simple Personal LinkedIn Banner](https://raw.githubusercontent.com/Nickartze/nickarts.github.io/refs/heads/main/Images/Profile%20Banner.png)
+An Analyst blending a design foundation with data analytics to build better product and marketing solutions.
 
-I'm a Data Analyst with a design background who builds data models and interactive dashboards. I manage a data pipeline that uncovers valuable business insights and drives marketing analysis.
+What I do: Solve product questions, create analytical guidelines, and design interactive dashboards that uncover critical business insights.
 
-## Projects
+My approach: I use design principles to ensure data visualization is intuitive.
 
-- [SQL](https://github.com/Nickartze/SQL-Projects)  — SQL practice codes
-- [Dashboard Projects](https://github.com/Nickartze/Dashboard-Projects)  — Interactive dashboards and analytics use-cases
-- [Case Studies](https://github.com/Nickartze/Case-Studies)  — End-to-end analytical problem solving
+Core Toolkit: SQL | Python | Tableau| Excel | Figma
 
-## Websites
+## 📈Projects
+Welcome to my portfolio, where I showcase my [projects](https://nickartze.github.io/nickarts.github.io/#).
+
+## 👋🏻Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/amana-e-b359341b7/)
 - [Medium](https://medium.com/@easg9953)
 
 ## Tools & Technologies
 
-- **Languages:** SQL
+- **Languages:** SQL, Python
 - **Data Pipelines:** Airbyte
 - **Databases:** Google BigQuery, PostgreSQL, MySQL
 - **Visualization & BI:** Tableau, Looker Studio
 
-## Referenced
-
+## 🎨Readme References:
 - [katiehuangx](https://github.com/katiehuangx/katiehuangx)
+- [tiannaparris](https://github.com/tiannaparris/Data-Analysis-Portfolio?tab=readme-ov-file)
 
 
 <!--
