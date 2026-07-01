@@ -1,29 +1,27 @@
-## Hi there! I'm Amana
+## ✨Hi there! I'm Amana
 
 An Analyst blending a design foundation with data analytics to build better product and marketing solutions.
 
-What I do: Solve product questions, create analytical guidelines, and design interactive dashboards that uncover critical business insights.
+What I do: 
+- Solve product questions,
+- Create analytical guidelines, and
+- Design interactive dashboards that uncover critical business insights.
 
-My approach: I use design principles to ensure data visualization is intuitive.
-
-Core Toolkit: SQL | Python | Tableau| Excel | Figma
 
 ## 📈Projects
 Welcome to my portfolio, where I showcase my [projects](https://nickartze.github.io/nickarts.github.io/#).
 
 ## 👋🏻Connect with me
-
 - [LinkedIn](https://www.linkedin.com/in/amana-e-b359341b7/)
-- [Medium](https://medium.com/@easg9953)
 
-## Tools & Technologies
+## 🎨Tools & Technologies
 
 - **Languages:** SQL, Python
 - **Data Pipelines:** Airbyte
 - **Databases:** Google BigQuery, PostgreSQL, MySQL
 - **Visualization & BI:** Tableau, Looker Studio
 
-## 🎨Readme References:
+## Intro Refs:
 - [katiehuangx](https://github.com/katiehuangx/katiehuangx)
 - [tiannaparris](https://github.com/tiannaparris/Data-Analysis-Portfolio?tab=readme-ov-file)
 
