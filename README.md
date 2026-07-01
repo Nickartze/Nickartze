@@ -8,7 +8,7 @@ What I do:
 - Design interactive dashboards that uncover critical business insights.
 
 ## 📈Projects
-Welcome to my portfolio, where I showcase my [projects](https://nickartze.github.io/nickarts.github.io/#).
+Explore my finished [projects](https://nickartze.github.io/nickarts.github.io/#).
 
 ## 🎨Tools I use
 
