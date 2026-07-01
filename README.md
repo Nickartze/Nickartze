@@ -7,26 +7,26 @@ What I do:
 - Create analytical guidelines, and
 - Design interactive dashboards that uncover critical business insights.
 
-
 ## 📈Projects
 Welcome to my portfolio, where I showcase my [projects](https://nickartze.github.io/nickarts.github.io/#).
 
-## 👋🏻Connect with me
+## 🎨Tools I use
+
+- **Languages:** Excel, PostgreSQL, MySQL, Python
+- **Visualization & BI:** Figma, Tableau, Looker Studio
+
+## 👋🏻Contact at
 - [LinkedIn](https://www.linkedin.com/in/amana-e-b359341b7/)
+- [email](easg9953@gmai.com)
 
-## 🎨Tools & Technologies
 
-- **Languages:** SQL, Python
-- **Data Pipelines:** Airbyte
-- **Databases:** Google BigQuery, PostgreSQL, MySQL
-- **Visualization & BI:** Tableau, Looker Studio
-
+<!--
 ## Intro Refs:
 - [katiehuangx](https://github.com/katiehuangx/katiehuangx)
 - [tiannaparris](https://github.com/tiannaparris/Data-Analysis-Portfolio?tab=readme-ov-file)
 
 
-<!--
+
 **Nickartze/Nickartze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
