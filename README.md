@@ -17,7 +17,7 @@ Explore my finished [projects](https://nickartze.github.io/nickarts.github.io/#)
 
 ## 👋🏻Contact at
 - [LinkedIn](https://www.linkedin.com/in/amana-e-b359341b7/)
-- [email](mailto:easg9953@gmail.com)
+- [easg9953@gmail.com](mailto:easg9953@gmail.com)
 
 
 <!--
